@@ -2,14 +2,12 @@
 
 ### 📊 GitHub Stats & Most Used Languages
 
-<div align="center" style="display: flex; justify-content: space-around;">
-  <a href="https://github.com/Tsmore">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsmore&layout=compact&count_private=true&show_icons=true&theme=onedark" alt="Top Langs" height="150px" />
-  </a>
-  <a href="https://github.com/Tsmore">
-    <img src="https://github-readme-stats.vercel.app/api?username=Tsmore&count_private=true&show_icons=true&theme=onedark" alt="github stats" height="150px" />
-  </a>
-</div>
+<a href="https://github.com/tocoteron">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Tsmore&count_private=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/tocoteron">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsmore&layout=compact&theme=dracula" />
+</a>
 
 
 ### 🏆 GitHub Trophies
