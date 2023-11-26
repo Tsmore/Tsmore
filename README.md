@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### Summary
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tsmore&theme=vue)
+
 ### 📊 GitHub Stats & Most Used Languages
 
 <a href="https://github.com/tocoteron">
