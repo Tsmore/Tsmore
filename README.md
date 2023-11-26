@@ -6,7 +6,6 @@
   <a href="https://github.com/Tsmore">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsmore&layout=compact&count_private=true&show_icons=true&theme=onedark" alt="Top Langs" height="150px" />
   </a>
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://github.com/Tsmore">
     <img src="https://github-readme-stats.vercel.app/api?username=Tsmore&count_private=true&show_icons=true&theme=onedark" alt="github stats" height="150px" />
   </a>
