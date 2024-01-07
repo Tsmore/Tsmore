@@ -18,12 +18,8 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/Tsmore">
-    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Tsmore&count_private=true&show_icons=true&theme=dracula" />
-  </a>
-  <a href="https://github.com/Tsmore">
-    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsmore&layout=compact&theme=dracula" />
-  </a>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Tsmore&count_private=true&show_icons=true&theme=dracula" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsmore&layout=compact&theme=dracula" />
 </div>
 
 
