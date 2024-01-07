@@ -25,4 +25,5 @@
 
 ### 🐍 Snake Animation
 ---
-![snake animation](https://github.com/Tsmore/Tsmore/blob/main/github-user-contribution.svg)
+![snake animation](https://raw.githubusercontent.com/Tsmore/Tsmore/output/github-contribution-grid-snake.svg)
+
