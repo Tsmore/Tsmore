@@ -3,7 +3,7 @@ name: generate animation
 on:
   # run automatically every 24 hours
   schedule:
-    - cron: "0 */12 * * *" 
+    - cron: "0 */6 * * *" 
   
   # allows to manually run the job at any time
   workflow_dispatch:
@@ -31,6 +31,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=#00FFFF&color_dots=#007FFF,#1E90FF,#4169E1,#4682B4,#5F9EA0
         env:
           GITHUB_TOKEN: ${{ secrets.SAMPLE_SECRETS }}
           
